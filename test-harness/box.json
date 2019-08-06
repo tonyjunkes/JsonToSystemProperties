@@ -1,0 +1,14 @@
+{
+    "name":"JSON To System Properties - Test",
+    "slug":"JsonToSystemProperties-test",
+    "version":"0.0.0",
+    "devDependencies":{
+        "testbox":"^3.0.0"
+    },
+    "installPaths":{
+        "testbox":"testbox/"
+    },
+    "testbox":{
+        "runner":"http://localhost:8520/tests/runner.cfm"
+    }
+}

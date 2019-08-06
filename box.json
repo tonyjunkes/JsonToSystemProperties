@@ -1,0 +1,11 @@
+{
+    "name":"JSON To System Properties",
+    "slug":"JsonToSystemProperties",
+    "version":"1.0.0",
+    "dependencies":{
+        "gson-2.8.5":"jar:https://search.maven.org/remotecontent?filepath=com/google/code/gson/gson/2.8.5/gson-2.8.5.jar"
+    },
+    "installPaths":{
+        "gson-2.8.5":"lib/gson-2.8.5/"
+    }
+}
