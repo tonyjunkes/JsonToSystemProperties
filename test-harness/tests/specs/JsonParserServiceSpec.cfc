@@ -75,7 +75,7 @@ component extends="testbox.system.BaseSpec" {
             describe( "JSON Objects & Arrays", function() {
                 it( "Tests loading a nested JSON array in an object as a property", function() {
                     var json = '{
-                                    test_key: [
+                                    "test_key": [
                                         "test_value"
                                     ]
                                 }';
